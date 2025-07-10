@@ -5,7 +5,7 @@ import {
   Scripts,
   ScrollRestoration
 } from "@remix-run/react";
-import type { LinksFunction, LoaderFunctionArgs } from "@remix-run/node";
+import type { LinksFunction } from "@remix-run/node";
 import { json } from "@remix-run/node";
 
 import "./tailwind.css";
